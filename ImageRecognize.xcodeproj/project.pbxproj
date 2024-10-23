@@ -13,7 +13,6 @@
 		162E7F1F2C64EC8C00140F23 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 162E7F1E2C64EC8C00140F23 /* Preview Assets.xcassets */; };
 		162E7F262C64ECAE00140F23 /* CameraViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162E7F252C64ECAE00140F23 /* CameraViewModel.swift */; };
 		162E7F282C64ED2500140F23 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162E7F272C64ED2500140F23 /* CameraView.swift */; };
-		162E7F2B2C64F6C400140F23 /* YOLOv3Tiny.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 162E7F2A2C64F6C400140F23 /* YOLOv3Tiny.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		162E7F252C64ECAE00140F23 /* CameraViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewModel.swift; sourceTree = "<group>"; };
 		162E7F272C64ED2500140F23 /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
 		162E7F292C64EE7E00140F23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		162E7F2A2C64F6C400140F23 /* YOLOv3Tiny.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = YOLOv3Tiny.mlmodel; path = ../../../../../Downloads/YOLOv3Tiny.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 				162E7F1D2C64EC8C00140F23 /* Preview Content */,
 				162E7F252C64ECAE00140F23 /* CameraViewModel.swift */,
 				162E7F272C64ED2500140F23 /* CameraView.swift */,
-				162E7F2A2C64F6C400140F23 /* YOLOv3Tiny.mlmodel */,
 			);
 			path = ImageRecognize;
 			sourceTree = "<group>";
@@ -150,7 +147,6 @@
 			files = (
 				162E7F1A2C64EC8B00140F23 /* ContentView.swift in Sources */,
 				162E7F182C64EC8B00140F23 /* ImageRecognizeApp.swift in Sources */,
-				162E7F2B2C64F6C400140F23 /* YOLOv3Tiny.mlmodel in Sources */,
 				162E7F262C64ECAE00140F23 /* CameraViewModel.swift in Sources */,
 				162E7F282C64ED2500140F23 /* CameraView.swift in Sources */,
 			);
